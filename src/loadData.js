@@ -7,13 +7,7 @@ const collectionName = 'sampleLoad';
 
 // Initialize Cloud Firestore through Firebase
 firebase.initializeApp({
-    apiKey: "AIzaSyAKffQbsph4zEo3eIJQVspO4nyiOhhlIOY",
-    authDomain: "default-41161.firebaseapp.com",
-    databaseURL: "https://default-41161.firebaseio.com",
-    projectId: "default-41161",
-    storageBucket: "default-41161.appspot.com",
-    messagingSenderId: "402268854996",
-    appId: "1:402268854996:web:5f9c44e8739c8221"
+
   });
 
 var db = firebase.firestore();
