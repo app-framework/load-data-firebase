@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "convert-csv-to-json": "0.0.15",
     "firebase": "^7.6.2"
   },
   "scripts": {
